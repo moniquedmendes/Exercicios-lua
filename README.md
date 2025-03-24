@@ -1,3 +1,3 @@
 # Exercicios-lua
 
-Exercícios em Lua utilizando LÖVE 2D, focados em estudos de computação gráficaaaa
+Exercícios em Lua utilizando LÖVE 2D, focados em estudos de computação gráficaaa
